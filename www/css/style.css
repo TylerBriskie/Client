@@ -1,0 +1,15 @@
+/* Empty. Add your own CSS if you like */
+img {
+
+height:20vh;
+width:30vh;
+}
+
+h1 {
+  color:red;
+text-shadow: 2px 2px black;
+}
+
+form {
+  padding-left:2em;
+}
